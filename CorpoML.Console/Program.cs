@@ -1,6 +1,5 @@
 ﻿using CorpoML.Console.Models;
 using Microsoft.ML;
-using CorpoML.Console.Repositories;
 
 MLContext mlContext = new MLContext();
 

@@ -1,10 +1,7 @@
-﻿using System;
-using CorpoML.Console.Models;
+﻿using CorpoML.Console.Models;
+using CorpoML.Console.Repositores;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using Microsoft.ML.FastTree;
-using ConsoleHelper;
-using System.IO;
 
 
 public class RegressionRepository

@@ -9,7 +9,7 @@ namespace CorpoML.Console.Models
         public float next;
 
         [LoadColumn(1)]
-        public string productId;
+        public string? productId;
 
         [LoadColumn(2)]
         public float year;
